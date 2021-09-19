@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @Kertrix
-- 👀 I’m interested in development
+# 👋 Hi, I’m @Kertrix 
+- I ❤️ development
+- I also ❤️ ❤️ Minecraft
+- I'm a French developper:
+- Python
+- Html & CSS
+- Javascript
+- And learning Java...
 - 🔒 Most of my repositories are private so a lot of them don't appear
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- My Gitlab account: https://gitlab.com/Kertrix
 
 <!---
 Kertrix/Kertrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
