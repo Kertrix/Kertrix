@@ -7,9 +7,15 @@
 - Javascript
 - And learning Java...
 - 🔒 Most of my repositories are private so a lot of them don't appear
-- My Gitlab account: https://gitlab.com/Kertrix
+## Links
+- My [Gitlab] account: https://gitlab.com/Kertrix
+- My 🌐 [website]: kertrix.github.io
+- My [DEV] account
+- My [StackOverflow] account
 
-<!---
-Kertrix/Kertrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[website]: https://kertrix.io/
+[github]: https://github.com/kertrix/
+[gitlab]: https://gitlab.com/kertrix/
+[dev]: https://dev.to/kertrix/
+[stackoverflow]: https://stackoverflow.com/users/16922031/kertrix/
