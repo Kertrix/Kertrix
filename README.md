@@ -14,7 +14,7 @@
 - My [StackOverflow] account
 
 
-[website]: https://kertrix.io/
+[website]: https://kertrix.github.io/
 [github]: https://github.com/kertrix/
 [gitlab]: https://gitlab.com/kertrix/
 [dev]: https://dev.to/kertrix/
