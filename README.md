@@ -1,4 +1,9 @@
 # 👋 Hi, I’m @Kertrix 
+
+Briefly :
+
+Scholar, French developer: - Python - HTML & CSS & JS - Learning Java
+
 - I ❤️ development
 - I also ❤️ ❤️ Minecraft
 - I'm a French developper:
