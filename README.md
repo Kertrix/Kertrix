@@ -4,6 +4,7 @@
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kertrix.github.io) 
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16922031/kertrix/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/kertrix/) 
+![discord](https://img.shields.io/badge/-Kertrix%230977-blue?style=for-the-badge&logo=discord&logoColor=white&color=5865f2)
 
 Hi! I'm Kertrix! A french scholar and junior developer!
 I ❤️ development and I also ❤️ ❤️ Minecraft!
