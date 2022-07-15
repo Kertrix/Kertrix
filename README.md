@@ -5,18 +5,9 @@
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16922031/kertrix/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/kertrix/) 
 
-Briefly :
-
-Scholar, French developer: - Python - HTML & CSS & JS - Learning Java
-
-- I ❤️ development
-- I also ❤️ ❤️ Minecraft
-- I'm a French developper:
-- Python
-- Html & CSS
-- Javascript
-- And learning Java...
-- 🔒 Most of my repositories are private so a lot of them don't appear
+Hi! I'm Kertrix! A french scholar and junior developer!
+I ❤️ development and I also ❤️ ❤️ Minecraft!
+🔒 Most of my repositories are private so a lot of them don't appear.
 
 ## GitHub stats
 
