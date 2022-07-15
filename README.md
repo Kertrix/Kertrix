@@ -20,6 +20,7 @@ And I use:
 
 <details>
     <summary>GitHub Profile Stats</summary>
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kertrix&show_icons=true&text_color=fff&title_color=fff&icon_color=fff&bg_color=45,ff6a4a,c053c0,5a8cf8)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -27,3 +28,7 @@ And I use:
 
 
 </details>
+
+<br>
+
+![Made with love](https://ForTheBadge.com/images/badges/built-with-love.svg)
