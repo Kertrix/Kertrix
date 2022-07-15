@@ -9,6 +9,13 @@ Hi! I'm Kertrix! A french scholar and junior developer!
 I ❤️ development and I also ❤️ ❤️ Minecraft!
 🔒 Most of my repositories are private so a lot of them don't appear.
 
+I code in:
+
+![My Skills](https://skillicons.dev/icons?i=py,html,css,js,java,md)
+
+And I use:
+
+![My Skills](https://skillicons.dev/icons?i=vscode,atom,idea,eclipse,django,react,flask,bootstrap,tailwind,git,linux,bash,figma,github,gitlab,discord)
 ## GitHub stats
 
 <details>
