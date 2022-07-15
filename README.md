@@ -17,11 +17,15 @@ Scholar, French developer: - Python - HTML & CSS & JS - Learning Java
 - Javascript
 - And learning Java...
 - 🔒 Most of my repositories are private so a lot of them don't appear
-## Links
 
+## GitHub stats
 
+<details>
+    <summary>GitHub Profile Stats</summary>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kertrix&show_icons=true&text_color=fff&title_color=fff&icon_color=fff&bg_color=45,ff6a4a,c053c0,5a8cf8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kertrix)](https://github.com/anuraghazra/github-readme-stats)
 
+
+</details>
