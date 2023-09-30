@@ -14,11 +14,11 @@ My website: [https://kertrix.dev](https://kertrix.dev)
 
 I code in:
 
-![My Skills](https://skillicons.dev/icons?i=py,html,css,js,java,md)
+![My Skills](https://skillicons.dev/icons?i=py,html,css,js,md)
 
 And I use:
 
-![My Skills](https://skillicons.dev/icons?i=vscode,atom,idea,django,react,flask,bootstrap,git,linux,bash,figma,github,gitlab,discord)
+![My Skills](https://skillicons.dev/icons?i=vscode,django,react,bootstrap,git,linux,bash,figma,github,gitlab,discord)
 ## GitHub stats
 
 <details>
