@@ -18,7 +18,7 @@ I code in:
 
 And I use:
 
-![My Skills](https://skillicons.dev/icons?i=vscode,django,react,bootstrap,git,linux,bash,figma,github,gitlab,discord)
+![My Skills](https://skillicons.dev/icons?i=vscode,react,git,linux,tailwind,github,gitlab,django,bash,figma,discord,bootstrap)
 ## GitHub stats
 
 <details>
