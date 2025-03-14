@@ -10,7 +10,7 @@ Hi! I'm Kertrix! A french scholar and junior developer!
 I ❤️ development and I also ❤️ ❤️ Minecraft!
 🔒 Most of my repositories are private so a lot of them don't appear.
 
-My website: [https://kertrix.dev](https://kertrix.dev)
+My website: ~~[https://kertrix.dev](https://kertrix.dev)~~ 🚧 In maintenance.
 
 I code in:
 
